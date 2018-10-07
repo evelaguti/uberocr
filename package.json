@@ -1,0 +1,24 @@
+{
+  "name": "@evelaguti/uberocr",
+  "version": "0.0.1",
+  "description": "OCR",
+  "main": "uberocr.js",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "jimp": "^0.5.3",
+    "tesseract.js": "^1.0.10"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "ocr",
+    "tesseract.js"
+  ],
+  "author": "evelaguti",
+  "license": "GNU GPLv3"
+}
