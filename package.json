@@ -1,0 +1,32 @@
+{
+  "name": "@evelaguti/uberocr",
+  "version": "0.0.2",
+  "description": "OCR",
+  "main": "src/uberocr.js",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "jimp": "^0.5.3",
+    "tesseract.js": "^1.0.10"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "ocr",
+    "tesseract.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evelaguti/uberocr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/evelaguti/uberocr/issues"
+  },
+  "homepage": "https://github.com/evelaguti/uberocr#readme",
+  "author": "evelaguti",
+  "license": "GNU GPLv3"
+}
